@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/8b4cce831c5144fa845622732237ff69/artifacts
+end_time: 1721628413392
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 8b4cce831c5144fa845622732237ff69
+run_name: blushing-frog-926
+run_uuid: 8b4cce831c5144fa845622732237ff69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628413312
+status: 3
+tags: []
+user_id: MV

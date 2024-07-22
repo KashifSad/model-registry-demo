@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/82426592157e4826966874f73d6a9556/artifacts
+end_time: 1721628691060
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 82426592157e4826966874f73d6a9556
+run_name: defiant-tern-818
+run_uuid: 82426592157e4826966874f73d6a9556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628690956
+status: 3
+tags: []
+user_id: MV

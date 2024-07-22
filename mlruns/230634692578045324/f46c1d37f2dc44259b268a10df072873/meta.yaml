@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/f46c1d37f2dc44259b268a10df072873/artifacts
+end_time: 1721628424959
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: f46c1d37f2dc44259b268a10df072873
+run_name: mysterious-swan-865
+run_uuid: f46c1d37f2dc44259b268a10df072873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628399158
+status: 3
+tags: []
+user_id: MV

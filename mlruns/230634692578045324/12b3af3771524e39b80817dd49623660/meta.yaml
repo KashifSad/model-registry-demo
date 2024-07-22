@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/12b3af3771524e39b80817dd49623660/artifacts
+end_time: 1721628741850
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 12b3af3771524e39b80817dd49623660
+run_name: blushing-fawn-798
+run_uuid: 12b3af3771524e39b80817dd49623660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628741730
+status: 3
+tags: []
+user_id: MV

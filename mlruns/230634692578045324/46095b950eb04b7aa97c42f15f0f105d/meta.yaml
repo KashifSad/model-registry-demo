@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/46095b950eb04b7aa97c42f15f0f105d/artifacts
+end_time: 1721628413865
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 46095b950eb04b7aa97c42f15f0f105d
+run_name: shivering-skink-352
+run_uuid: 46095b950eb04b7aa97c42f15f0f105d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628413762
+status: 3
+tags: []
+user_id: MV

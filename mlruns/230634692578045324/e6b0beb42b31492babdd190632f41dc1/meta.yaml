@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/e6b0beb42b31492babdd190632f41dc1/artifacts
+end_time: 1721628740038
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: e6b0beb42b31492babdd190632f41dc1
+run_name: wistful-newt-526
+run_uuid: e6b0beb42b31492babdd190632f41dc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628739939
+status: 3
+tags: []
+user_id: MV

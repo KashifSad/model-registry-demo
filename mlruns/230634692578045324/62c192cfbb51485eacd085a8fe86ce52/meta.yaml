@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/62c192cfbb51485eacd085a8fe86ce52/artifacts
+end_time: 1721628413057
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 62c192cfbb51485eacd085a8fe86ce52
+run_name: unequaled-snipe-121
+run_uuid: 62c192cfbb51485eacd085a8fe86ce52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628412962
+status: 3
+tags: []
+user_id: MV

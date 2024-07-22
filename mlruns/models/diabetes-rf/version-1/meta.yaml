@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1721628499928
+current_stage: None
+description: ''
+last_updated_timestamp: 1721628499928
+name: diabetes-rf
+run_id: f46c1d37f2dc44259b268a10df072873
+run_link: ''
+source: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/f46c1d37f2dc44259b268a10df072873/artifacts/Random
+  forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/f46c1d37f2dc44259b268a10df072873/artifacts/Random
+  forest
+user_id: null
+version: 1

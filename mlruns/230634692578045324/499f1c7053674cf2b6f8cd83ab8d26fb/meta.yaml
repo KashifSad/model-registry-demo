@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/499f1c7053674cf2b6f8cd83ab8d26fb/artifacts
+end_time: 1721628739526
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 499f1c7053674cf2b6f8cd83ab8d26fb
+run_name: zealous-owl-792
+run_uuid: 499f1c7053674cf2b6f8cd83ab8d26fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628739423
+status: 3
+tags: []
+user_id: MV

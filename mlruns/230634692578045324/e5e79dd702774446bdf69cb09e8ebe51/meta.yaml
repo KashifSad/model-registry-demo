@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/e5e79dd702774446bdf69cb09e8ebe51/artifacts
+end_time: 1721628740196
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: e5e79dd702774446bdf69cb09e8ebe51
+run_name: useful-wren-754
+run_uuid: e5e79dd702774446bdf69cb09e8ebe51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628740066
+status: 3
+tags: []
+user_id: MV

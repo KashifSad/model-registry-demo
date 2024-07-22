@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/acda445e0aa642ae8bc2a67a5af40b68/artifacts
+end_time: 1721628689816
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: acda445e0aa642ae8bc2a67a5af40b68
+run_name: inquisitive-cat-379
+run_uuid: acda445e0aa642ae8bc2a67a5af40b68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628689726
+status: 3
+tags: []
+user_id: MV

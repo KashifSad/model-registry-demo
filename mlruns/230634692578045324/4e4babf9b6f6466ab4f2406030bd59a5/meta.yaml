@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/4e4babf9b6f6466ab4f2406030bd59a5/artifacts
+end_time: 1721628690530
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 4e4babf9b6f6466ab4f2406030bd59a5
+run_name: loud-bee-563
+run_uuid: 4e4babf9b6f6466ab4f2406030bd59a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628690429
+status: 3
+tags: []
+user_id: MV

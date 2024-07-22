@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/35effa70ad504faaaeb95d4e0ede363c/artifacts
+end_time: 1721628413292
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 35effa70ad504faaaeb95d4e0ede363c
+run_name: abundant-croc-629
+run_uuid: 35effa70ad504faaaeb95d4e0ede363c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628413201
+status: 3
+tags: []
+user_id: MV

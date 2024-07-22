@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/fdb64edebe9c4843b3ffb114bcda82f5/artifacts
+end_time: 1721628741257
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: fdb64edebe9c4843b3ffb114bcda82f5
+run_name: bemused-midge-919
+run_uuid: fdb64edebe9c4843b3ffb114bcda82f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628741091
+status: 3
+tags: []
+user_id: MV

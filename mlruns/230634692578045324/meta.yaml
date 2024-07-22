@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324
+creation_time: 1721628398881
+experiment_id: '230634692578045324'
+last_update_time: 1721628398881
+lifecycle_stage: active
+name: diabetes-rf-hp

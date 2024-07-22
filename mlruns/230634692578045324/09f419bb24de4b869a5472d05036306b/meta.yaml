@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/09f419bb24de4b869a5472d05036306b/artifacts
+end_time: 1721628739786
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 09f419bb24de4b869a5472d05036306b
+run_name: judicious-ray-859
+run_uuid: 09f419bb24de4b869a5472d05036306b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628739680
+status: 3
+tags: []
+user_id: MV

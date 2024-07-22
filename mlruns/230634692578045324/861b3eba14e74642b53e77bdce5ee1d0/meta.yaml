@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/861b3eba14e74642b53e77bdce5ee1d0/artifacts
+end_time: 1721628740919
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 861b3eba14e74642b53e77bdce5ee1d0
+run_name: popular-skunk-58
+run_uuid: 861b3eba14e74642b53e77bdce5ee1d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628740812
+status: 3
+tags: []
+user_id: MV

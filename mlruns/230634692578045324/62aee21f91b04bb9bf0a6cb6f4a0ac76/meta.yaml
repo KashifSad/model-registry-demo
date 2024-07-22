@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/62aee21f91b04bb9bf0a6cb6f4a0ac76/artifacts
+end_time: 1721628691211
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 62aee21f91b04bb9bf0a6cb6f4a0ac76
+run_name: fearless-ant-763
+run_uuid: 62aee21f91b04bb9bf0a6cb6f4a0ac76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628691079
+status: 3
+tags: []
+user_id: MV

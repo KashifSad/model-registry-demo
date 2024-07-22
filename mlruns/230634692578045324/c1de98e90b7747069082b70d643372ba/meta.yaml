@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/c1de98e90b7747069082b70d643372ba/artifacts
+end_time: 1721628690404
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: c1de98e90b7747069082b70d643372ba
+run_name: efficient-lynx-104
+run_uuid: c1de98e90b7747069082b70d643372ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628690311
+status: 3
+tags: []
+user_id: MV

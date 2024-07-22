@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/ed9ddc281491465a9f2c0b70d2e4b5fa/artifacts
+end_time: 1721628413976
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: ed9ddc281491465a9f2c0b70d2e4b5fa
+run_name: clean-cod-328
+run_uuid: ed9ddc281491465a9f2c0b70d2e4b5fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628413886
+status: 3
+tags: []
+user_id: MV

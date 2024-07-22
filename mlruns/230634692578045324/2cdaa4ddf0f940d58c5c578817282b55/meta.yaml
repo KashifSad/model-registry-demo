@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MV/Desktop/MLOPS%20-%20Copy%20-%20Copy/model-registry-demo/mlruns/230634692578045324/2cdaa4ddf0f940d58c5c578817282b55/artifacts
+end_time: 1721628692076
+entry_point_name: ''
+experiment_id: '230634692578045324'
+lifecycle_stage: active
+run_id: 2cdaa4ddf0f940d58c5c578817282b55
+run_name: beautiful-asp-712
+run_uuid: 2cdaa4ddf0f940d58c5c578817282b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721628691962
+status: 3
+tags: []
+user_id: MV
